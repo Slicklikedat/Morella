@@ -5,10 +5,12 @@ body{
 a:link {color: snow;}
 a:visited {color: snow;}
 
+
 #sidor{
     float: left;
     width: 80%;
     margin-left: 10%;
+
 }
 #sidor div{
     margin-left: 17%;
@@ -45,6 +47,7 @@ a:visited {color: snow;}
     margin-left: 10%;
     width: 80%;
 }
+
 
 #kontakt-background h2{
     margin-left: 30%;
