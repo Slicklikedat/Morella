@@ -1,0 +1,55 @@
+body{
+    background-color: gray;
+}
+
+a:link {color: snow;}
+a:visited {color: snow;}
+
+#sidor{
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+}
+#sidor div{
+    margin-left: 17%;
+    float: left;
+}
+#index-rubrik{
+    margin-left: 33%;
+}
+#meny-rubrik{
+    margin-left: 42%;
+    margin-top: 10px;
+}
+#kontakt-rubrik{
+    margin-left: 42%;
+}
+
+#mat-menyn p{
+    margin-top: -10px;
+
+}
+
+#mat-menyn-vänster{
+    float: left;
+    width: 40%;
+    margin-left: 13%;
+}
+
+#mat-menyn-höger{
+    float: left;
+    width: 40%;
+}
+#meny-background{
+    float: left;
+    margin-left: 10%;
+    width: 80%;
+}
+
+#kontakt-background h2{
+    margin-left: 30%;
+    margin-top: 30px;
+}
+#kontakt-background h3{
+    margin-left: 30%;
+}
