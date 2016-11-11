@@ -56,3 +56,9 @@ a:visited {color: snow;}
 #kontakt-background h3{
     margin-left: 30%;
 }
+
+#pizzaimg{
+    float: left;
+    margin-left: 17%;
+
+}
