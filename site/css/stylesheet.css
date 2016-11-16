@@ -1,9 +1,9 @@
 body{
-    background-color: gray;
+    background-color: green;
 }
 
-a:link {color: snow;}
-a:visited {color: snow;}
+a:link {color: black;}
+a:visited {color: black;}
 
 
 #sidor{
